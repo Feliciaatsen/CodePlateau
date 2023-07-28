@@ -1,0 +1,29 @@
+h1, p{
+    color: brown;
+}
+
+div >h2{
+    color: blue;
+}
+
+div >ul{
+    color: green;
+}
+
+.Felicia#Bar{
+    color: gray;
+}
+
+.button{
+    padding: 50px;
+    color: blue;
+    background-color: black;
+}
+
+.button.hover{
+    color: pink;
+}
+    
+
+
+

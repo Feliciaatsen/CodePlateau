@@ -1,0 +1,12 @@
+.root{
+    --blue: var( blue);
+    --yellow: var(yellow);
+}
+
+#First{
+    color: var( blue);
+}
+
+p{
+    --blue
+}

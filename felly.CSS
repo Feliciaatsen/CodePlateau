@@ -1,0 +1,29 @@
+ *{
+   background-color: aqua;
+ }
+ body{
+   text-align: center;
+
+ }
+
+ .green{
+   color: green;
+ }
+ #red{
+   color: red;
+ }
+ .purple{
+   color: purple;
+ }
+ .pink{
+   color: pink;
+ }
+
+
+ a{
+   background-color: rgb(red, green, blue);
+   text-decoration: none;
+   padding: 5px 5px 7px 6px;
+   border-radius: 5px;
+ }
+ 

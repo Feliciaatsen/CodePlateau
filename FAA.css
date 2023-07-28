@@ -1,0 +1,16 @@
+table, th, td{
+    border: 1px solid black;
+
+}
+.Felicia{
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: aqua(209, 163,163);
+    font-size: larger;
+    text-align: center;
+    border-collapse: collapse;
+}
+h1,p{
+    text-align: center;
+}

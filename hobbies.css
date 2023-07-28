@@ -1,0 +1,16 @@
+h1, p{
+    color: blue;
+}
+
+
+@media (max-width:600px;)and(min-width;500px){
+    
+}
+h1,p{
+    color: red;
+}
+
+.btn.hover{
+    background-color: white;
+    padding: 50px;
+}

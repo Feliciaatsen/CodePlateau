@@ -1,0 +1,34 @@
+.blue{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    left: 500px;
+    
+}
+.black{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    position: relative;
+    left: 200px;
+    
+
+
+}
+.orange{
+    height: 200px;
+    width: 200px;
+    background-color: orange;
+    position: relative;
+    left: 400px;
+
+}
+.purple{
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+    position: relative;
+    left: 200;
+}
+

@@ -1,0 +1,73 @@
+.one img{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    margin-top: 50%;
+    filter: drop-shadow(20px 20px 20px black);
+}
+
+.two img{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 200px;
+    bottom: 350px;
+    z-index: +1;
+    filter: drop-shadow(20px 20px 20px black);
+}
+
+.three img{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    left: 400px;
+    bottom: 700px;
+    z-index: +1;
+    transition: width 2s, height4  4s;
+    filter: drop-shadow(20px 20px 2opx black);
+}
+
+.four img{
+    height: 300px;
+    width: 250;
+    position: relative;
+    left: 600px;
+    bottom: 1050px;
+    z-index: +1;
+    filter: drop-shadow(0px 5px 6px black);
+}
+
+.five img{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    left: 800px;
+    bottom: 1312px;
+    z-index: -1;
+    filter: drop-shadow(2px 20px 20px black);
+}
+
+.six img{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    left: 1000px;
+    bottom: 1570px;
+    z-index: -2;
+    filter: drop-shadow(2px 20px 20px black);
+}
+
+.seven img{
+    height: 300px;
+    width: 250px;
+    position: relative;
+    left: 1200px;
+    bottom: 1820px;
+    z-index: -3;
+    filter: drop-shadow(2px 20px 20px black);
+}
+
+.container{
+    margin-left: 8%;
+    transition: all width 30px 2s;
+}
