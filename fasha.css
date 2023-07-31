@@ -1,0 +1,23 @@
+img{
+    width: 200px;
+    float: left;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+
+}
+
+
+li{
+    flex-basis: 100;
+    flex-shrink: 1;
+    flex-grow: 1;
+    /*flex grow and flex basis does not need px/*
+}
